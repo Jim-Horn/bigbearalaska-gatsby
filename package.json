@@ -6,7 +6,7 @@
   "author": "Jim Horn <jim@jdhorn.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^2.1.4",
-    "gatsby": "^5.12.9",
+    "gatsby": "^5.12.12",
     "gatsby-plugin-google-tagmanager": "^5.12.3",
     "gatsby-plugin-image": "^3.12.3",
     "gatsby-plugin-manifest": "^5.12.3",
@@ -19,7 +19,7 @@
     "styled-components": "^6.1.1"
   },
   "devDependencies": {
-    "prettier": "^3.1.0"
+    "prettier": "^3.1.1"
   },
   "keywords": [
     "gatsby"
