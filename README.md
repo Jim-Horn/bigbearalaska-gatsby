@@ -12,6 +12,11 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
+## Requirements
+
+- **Node.js** [22.x](https://nodejs.org/) — use `.nvmrc` / `.node-version` with nvm, fnm, asdf, etc.; `package.json` declares compatible versions under `engines`.
+- **Yarn** Classic **1.22+** (Netlify uses `YARN_VERSION` from `netlify.toml`).
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
