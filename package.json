@@ -16,10 +16,10 @@
     "gatsby-transformer-sharp": "^5.16.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "styled-components": "^6.4.2"
+    "styled-components": "^6.4.4"
   },
   "devDependencies": {
-    "prettier": "^3.8.4"
+    "prettier": "^3.9.6"
   },
   "keywords": [
     "gatsby"
